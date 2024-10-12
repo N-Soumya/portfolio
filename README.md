@@ -1,11 +1,11 @@
 # Soumya Nagendra's Portfolio
 
-Welcome to my portfolio website! Explore my [Projects](https://yourusername.github.io/projects/), learn about my [Skills](https://yourusername.github.io/skills/), and [Contact](https://yourusername.github.io/contact/) me for opportunities.
+Welcome to my portfolio website! Explore my [Projects](./project.md), learn about my [Skills](./skills.md), and [Contact](./contact.md) me for opportunities.
 
 ## Quick Links
-- [About Me](https://yourusername.github.io/about/)
-- [Publications](https://yourusername.github.io/publications/)
-- [Resume](https://yourusername.github.io/resume.pdf) *(Ensure you add a resume.pdf to your repository)*
+- [About Me](./about.md)
+
+- [Resume](./resume.pdf) *(Ensure you add a resume.pdf to your repository)*
 
 ## Technical Skills
 C++, Python, Ethereum Blockchain, Smart Contracts, Quantum Machine Learning, AWS Braket, GoLang, SQL, HTML, CSS.
