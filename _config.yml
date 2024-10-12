@@ -1,0 +1,19 @@
+title: Soumya Nagendra
+logo: Profile-modified.png
+show_downloads: false
+theme: jekyll-theme-minimal
+
+# Add navigation links
+navbar:
+  - title: Home
+    link: /
+  - title: About
+    link: /about/
+  - title: Projects
+    link: /projects/
+  - title: Skills
+    link: /skills/
+  - title: Publications
+    link: /publications/
+  - title: Contact
+    link: /contact/
